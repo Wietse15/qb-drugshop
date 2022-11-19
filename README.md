@@ -1,2 +1,11 @@
 # qb-drugshop
-a Nice shop to buy something like drugs labse Server.cfg Have Fun with it etc Now For Free! You just need to drag it into your resources Folder and launch it in your Server.cfg Have Fun with it
+
+A Nice shop to buy someting like a Methlab or Ingredients
+
+installation 
+
+Step 1 Move the File into your resources-[qb] File
+
+Step 2 Go to the server.cfg and type ~~ ensure qb-drugshop
+
+With a 💙 From Me!
